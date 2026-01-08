@@ -45,7 +45,7 @@ Multiple models are compared to assess predictive performance and interpretabili
 
 ## Files
 
-- `BTS_Track_Popularity_Prediction.ipynb` — full analysis, modeling, and interpretation
+- [BTS_Track_Popularity_Prediction.ipynb](BTS_Track_Popularity_Prediction.ipynb) — full analysis, modeling, and interpretation
 
 ## Tools
 
